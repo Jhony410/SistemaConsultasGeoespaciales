@@ -3,6 +3,13 @@
 Este proyecto implementa un **Sistema de Consultas Geoespaciales** utilizando una estructura de datos **R-Tree** (Árbol R) para la indexación eficiente de puntos de interés (POIs). La aplicación permite visualizar, generar y consultar datos espaciales a través de una interfaz gráfica interactiva.
 
 ---
+## 👥 Autores
+*   [Rojas Luque Franco]
+*   [Condori Nina Mildward Erik]
+*   [Cabana Otazu Diane Coraima]
+*   [Aguilar Anccori Jhon Elias]
+
+---
 
 ## 🧐 ¿Qué es un R-Tree?
 
@@ -80,10 +87,6 @@ Este sistema soluciona el problema de las consultas espaciales masivas evitando 
 *   El uso de **MBRs** optimiza el filtrado espacial, descargando rápidamente áreas que no contienen resultados.
 *   La implementación incluye una lógica de **Split** (división de nodos) que mantiene el árbol balanceado, asegurando un rendimiento estable incluso con miles de puntos.
 
----
-
-## 👥 Autores
-*   [Añadir nombre de autores]
 
 ---
 *Este proyecto fue desarrollado para el curso de Estructura de Datos Avanzadas.*
