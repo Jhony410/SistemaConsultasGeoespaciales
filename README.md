@@ -1,4 +1,4 @@
-# Sistema de Consultas Geoespaciales con R-Tree 📍
+# Sistema de Consultas Geoespaciales con R-Tree  📍
 
 Este proyecto implementa un **Sistema de Consultas Geoespaciales** utilizando una estructura de datos **R-Tree** (Árbol R) para la indexación eficiente de puntos de interés (POIs). La aplicación permite visualizar, generar y consultar datos espaciales a través de una interfaz gráfica interactiva.
 
