@@ -87,6 +87,5 @@ Este sistema soluciona el problema de las consultas espaciales masivas evitando 
 *   El uso de **MBRs** optimiza el filtrado espacial, descargando rápidamente áreas que no contienen resultados.
 *   La implementación incluye una lógica de **Split** (división de nodos) que mantiene el árbol balanceado, asegurando un rendimiento estable incluso con miles de puntos.
 
-
 ---
-*Este proyecto fue desarrollado para el curso de Estructura de Datos Avanzadas.*
+**Este proyecto fue desarrollado para el curso de Estructura de Datos Avanzadas.**
