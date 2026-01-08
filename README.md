@@ -4,14 +4,24 @@ Este proyecto implementa un **Sistema de Consultas Geoespaciales** utilizando un
 
 ---
 ## 👥 Autores
-*   [Rojas Luque Franco]
-*   [Condori Nina Mildward Erik]
-*   [Cabana Otazu Diane Coraima]
-*   [Aguilar Anccori Jhon Elias]
+*   Rojas Luque Franco
+*   Condori Nina Mildward Erik
+*   Cabana Otazu Diane Coraima
+*   Aguilar Anccori Jhon Elias
+
+---
+
+## 📺 Video Explicativo
+Para una explicación detallada del proyecto y su funcionamiento, puedes ver el siguiente video en YouTube:
+
+[![Video Explicativo](https://img.youtube.com/vi/oN_db-uKiRs/0.jpg)](https://youtu.be/oN_db-uKiRs)
+
+[👉 Ver video en YouTube](https://youtu.be/oN_db-uKiRs)
 
 ---
 
 ## 🧐 ¿Qué es un R-Tree?
+
 
 El **R-Tree** es una estructura de datos de acceso espacial jerárquica (similar a un B-Tree pero para dimensiones múltiples). Se utiliza para organizar objetos geométricos agrupándolos mediante el concepto de **MBR (Minimum Bounding Rectangle)** o Rectángulo Mínimo de Contorno.
 
